@@ -1,0 +1,14 @@
+Package: SubsetRV
+Type: Package
+Title: Subset test for gene-based analysis based on summary statistics
+        of genome-wide association studies
+Version: 1.7
+Date: 2023-10-25
+Authors: Samaneh Mansouri, Ting-Huei Chen
+Maintainer: samaneh Mansouri <sam.mansouri2021@gmail.com>
+Depends: R(>= 3.4.3), gtools
+Description: Subset test for gene-based analysis based on summary statistics
+        of genome-wide association studies 
+License: GPL version 2 or later
+Packaged: 2023-10-25 06:18:52 UTC; 
+NeedsCompilation: yes
